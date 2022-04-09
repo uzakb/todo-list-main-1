@@ -1,0 +1,15 @@
+
+.todo-wrapper {
+  margin: 150px auto 0 auto;
+  width: 550px;
+  border: 1px solid rgb(197, 197, 197);
+  border-radius: 3px;
+}
+
+.todo-list {
+  border: 1px solid rgb(197, 197, 197);
+}
+
+.todo-list > div:nth-child(odd){
+  background: rgb(177, 177, 177);
+}
